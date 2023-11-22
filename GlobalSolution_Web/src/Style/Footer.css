@@ -1,0 +1,17 @@
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   }
+   
+   .footer-item {
+    color: black;
+    width: 50%;
+    text-align: left;
+   }
+   
+   .footer-item span {
+    color: #007bff;
+   }
