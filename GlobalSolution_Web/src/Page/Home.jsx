@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div>
       <div className='Home-Meio'>
-        <h1 className='Titulo'>O que é Diabetes Tipo 1?</h1>
+        <h1 className='Titulo'>O que é Diabetes Tipo 1? oi</h1>
         <div className='conteudo'>
           <div className='texto1'>
             <p>
