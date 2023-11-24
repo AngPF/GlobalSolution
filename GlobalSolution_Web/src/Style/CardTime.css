@@ -1,0 +1,98 @@
+.Body-card-squad {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F1E3F4;
+    width: 100%;
+}
+
+.cardSquad {
+    height: 552px;
+    width: 440px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 13px;
+    background-color:
+        #f0f0f0;
+}
+.cardSquad,
+.profile-image,
+.fab,
+.contac-me {
+    box-shadow: -1.6px -1.6px 4.8px #009EE2, 1.6px 1.6px 4.8px;
+}
+
+.profile-image {
+    height: 172px;
+    width: 172px;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-squad {
+    font-weight: 700;
+    margin: 20px 0 0 0;
+    text-align: center;
+    color: #41364b;
+    font-size: 30px;
+}
+
+.rm-squad {
+    margin: 12px 0;
+    text-align: center;
+    color: #41364b;
+    font-size: 25px;
+}
+
+.about {
+    color: #41364b;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.social-icons {
+    margin: 16px 15px 25px 0;
+    display: flex;
+}
+
+.fab {
+    height: 52px;
+    width: 52px;
+    padding: 8px;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 15px;
+}
+
+.img-squad {
+    height: 96px;
+    width: 96px;
+    background-image: url('./src/333281994_214383494462434_7701588512888354688_n\ 1.png');
+    background-position: center;
+    border-radius: 50%;
+}
+
+.pf-ft {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.contac-me {
+    background: none;
+    border: none;
+    padding: 18px 30px;
+    border-radius: 13px;
+    margin: 16px auto;
+    font-size: 20px;
+}
+
+.contac-me:hover {
+    background: #009EE2;
+    color: black;
+}
